@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smillyboy5.aternos.me:48523",
+    "ip": "livebearer.aternos.host:48523",
     "port": 48523,
     "version": "",
     "try-creative": false
